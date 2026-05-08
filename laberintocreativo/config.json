@@ -21,10 +21,10 @@
     "loading": {
       "create": true,
       "logo": {
-        "src": "data/jaioks-logo.gif",
+        "src": "data/LB.gif",
         "alt": "arNFT.js logo"
       },
-      "loadingMessage": "Diseñando espera..."
+      "loadingMessage": "No te vayas a perder ya casi..."
     },
     "stats": {
       "createHtml": false
